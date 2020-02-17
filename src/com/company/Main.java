@@ -7,5 +7,9 @@ public class Main {
 	    System.out.println("Hello World");
 	// write your code here2
 	    System.out.println("Hello World2");    
+	    // write your code here
+	    System.out.println("Hello World3");
+	// write your code here2
+	    System.out.println("Hello World4");  
     }
 }
